@@ -1,3 +1,3 @@
 # FuturePredictsPast
 
-_Data Analysis Scripts for PNAS submission will be uploaded here._
+_Data Analysis Scripts for Nature Communications submission will be uploaded here._
